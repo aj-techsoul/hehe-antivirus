@@ -3,5 +3,8 @@ Now days due to some problem, hosting company is forcing us to get sitelock, whi
 
 ## How to use
 Step1: Just Create a folder in your shared hosting (or above) and upload this file there.
-Step2: Download the malware.txt from your server (if your dont have it then kindly call your hosting provider and ask to run ClamAV or any antivirus program, in the result you will get a text file of infected files.)
+
+Step2: Download the malware.txt from your server (if your dont have it then kindly call your hosting provider and ask to run ClamAV or any antivirus program, in the 
+result you will get a text file of infected files.)
+
 Step3: Open hehe_av.php in browser and Upload or add path of that malware.text and then click start. You see the infected files gets deleted in less than a second. ;P
